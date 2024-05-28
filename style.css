@@ -1,0 +1,15 @@
+body {
+  padding: 10px;
+  display:flex;
+  flex-direction: column
+}
+
+input {
+  margin: 5px;
+  width: 100%;
+}
+
+#form-message {
+  height: 100px;
+  width: 100%;
+}
